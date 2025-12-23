@@ -1,6 +1,6 @@
 # vehicle-positioning
 
-## Introduction
+## Abstract
 
 This project implements machine learning (ML) and neural network methods for vehicle positioning in an underground parking lot using Channel State Information (CSI) data.
 
